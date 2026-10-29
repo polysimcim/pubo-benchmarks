@@ -1,0 +1,16 @@
+# Unpacked copy of the instance store (regenerate with scripts/materialize_legacy_layout.py)
+data/legacy/
+
+# Solver output
+results/
+*.log
+
+# Notebook and Python noise
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Editors, OS
+.vscode/
+.idea/
+.DS_Store

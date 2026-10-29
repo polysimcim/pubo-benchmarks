@@ -1,0 +1,7 @@
+cmake-build-debug/
+.idea/
+.ipynb_checkpoints/
+pauli_strings_hamiltonians/
+*.hdf5
+tensors/
+/headers/use_open_mp.h
